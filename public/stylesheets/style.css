@@ -1,0 +1,36 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+table {
+    border-collapse: collapse;
+    margin-bottom: 10px;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+td,th{
+  padding: 5px;
+}
+
+th {
+  background-color: cyan;
+}
+
+tr.odd{
+   background-color: lightgray;
+}
+
+
+
+tr.total{
+  font-weight: bold;
+  background-color: GreenYellow;
+}
