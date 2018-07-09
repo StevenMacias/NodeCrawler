@@ -23,8 +23,8 @@ sudo apt-get install nodejs
 
 ## Built With
 
-* [Node.js](https://nodejs.org/es/) - The web framework used
-* [Express](http://expressjs.com/es/) - Dependency Management
+* [Node.js](https://nodejs.org/es/) - Server environment
+* [Express](http://expressjs.com/es/) - Web application framework
 
 
 ## Authors
